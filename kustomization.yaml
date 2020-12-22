@@ -6,4 +6,4 @@ resources:
 images:
 - name: APP_IMAGE
   newName: ghcr.io/kyriosproj/example-golang
-  newTag: init
+  newTag: sha-a6c1ad3
